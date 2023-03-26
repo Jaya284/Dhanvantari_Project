@@ -5,8 +5,8 @@
 
   <parent>
     <groupId>venkateswararao</groupId>
-    <artifactId>Jaya shankar</artifactId>
-    <version>30-06-1994</version>
+    <artifactId>jaya shankar</artifactId>
+    <version>30-06-1994 1.0-SNAP-SHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
